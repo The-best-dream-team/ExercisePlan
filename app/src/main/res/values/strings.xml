@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExercisePlan</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="server_client_id">1074172477385-ajr1saue2gn1r2o57bp4rr7imkhci31v.apps.googleusercontent.com</string>
+</resources>
