@@ -1,2 +1,2 @@
 # ExercisePlan
-android app for exercise plan
+Android app for planning exercise
